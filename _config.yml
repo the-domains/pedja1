@@ -1,6 +1,6 @@
 name: pedja1
 favicon: null
-layout_spectrum: 0.5233472841791809
+layout_spectrum: 0
 typography_spectrum: 0.0668226380366832
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.8768027434125543
+  brandStrength: 1
   lightness: 0.7320647411979735
   saturation: 0.20483656111173332
-  rhythmicContrast: 0.3581429186742753
+  rhythmicContrast: 0.5
 purpose: []

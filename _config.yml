@@ -1,20 +1,4 @@
-name: pedja1
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.32886
-title: Pedja zdravkovic visual designer
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#B8B42D'
@@ -26,4 +10,24 @@ color:
   lightness: 0.7320647411979735
   saturation: 0.20483656111173332
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: pedja1
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: work
+    id: d78425a2-0596-41fd-9219-a8f583715ee2
+    type: content
+favicon: null
+title: Pedja zdravkovic visual designer
 purpose: []
